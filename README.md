@@ -1,7 +1,7 @@
 hubot-rememberer
 ================
 
-Reply the answer dependent on registered message
+Reply the answer dependent on remembered message
 
 ![https://dl.dropboxusercontent.com/u/14832699/hubot-rememberer/hubot-rememberer.gif](https://dl.dropboxusercontent.com/u/14832699/hubot-rememberer/hubot-rememberer.gif)
 
@@ -10,11 +10,11 @@ Commands
 
 - `!<key>`
 
-    Reply registered message by \<key>
+    Reply remembered message by \<key>
 
 - `!<key> <msg>`
 
-    Register \<msg> as \<key>
+    Remember \<msg> as \<key>
 
 Installation
 ------------
