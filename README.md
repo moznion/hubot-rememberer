@@ -31,7 +31,15 @@ $ npm install git://github.com/moznion/hubot-chiebukuro
 ["hubot-chiebukuro"]
 ```
 
+
+Notes
+-----
+
+This script uses SQLite3 to store responses for each key.
+Now, this script creates the `chiebukuro.db` at the same directory of this.
+
 License
 -------
 
 MIT
+
