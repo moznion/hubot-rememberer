@@ -1,0 +1,25 @@
+{
+  "name": "hubot-chiebukuro",
+  "version": "0.0.1",
+  "description": "Reply the answer dependent on registered message",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-script"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/moznion/hubot-chiebukuro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moznion/hubot-chiebukuro/issues"
+  },
+  "author": "moznion",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^2.2.7"
+  }
+}
