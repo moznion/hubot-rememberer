@@ -1,5 +1,5 @@
 {
-  "name": "hubot-chiebukuro",
+  "name": "hubot-rememberer",
   "version": "0.0.1",
   "description": "Reply the answer dependent on registered message",
   "main": "index.coffee",
@@ -12,14 +12,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/moznion/hubot-chiebukuro.git"
+    "url": "git://github.com/moznion/hubot-rememberer.git"
   },
   "bugs": {
-    "url": "https://github.com/moznion/hubot-chiebukuro/issues"
+    "url": "https://github.com/moznion/hubot-rememberer/issues"
   },
   "author": "moznion",
   "license": "MIT",
   "dependencies": {
-    "sqlite3": "^2.2.7"
   }
 }
