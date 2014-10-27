@@ -10,7 +10,7 @@ module.exports = (robot) ->
     key = msg.match[1]
     val = robot.brain.get key
 
-    responseMsg = "\"#{key}\" is not remembered"
+    responseMsg = "Don't know what \"#{key}\" is."
     if val != null
       responseMsg = val
     msg.send responseMsg
